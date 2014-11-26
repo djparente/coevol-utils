@@ -1,0 +1,14 @@
+C:\Users\dparente\Documents\SharpDevelop Projects\ZNMI\ZNMI\bin\Debug\ZNMI.exe
+C:\Users\dparente\Documents\SharpDevelop Projects\ZNMI\ZNMI\bin\Debug\ZNMI.pdb
+C:\Users\dparente\Documents\SharpDevelop Projects\ZNMI\ZNMI\bin\Debug\DJPCommonBioinfo.dll
+C:\Users\dparente\Documents\SharpDevelop Projects\ZNMI\ZNMI\bin\Debug\DJPCommonBioinfo.pdb
+C:\Users\dparente\Documents\SharpDevelop Projects\ZNMI\ZNMI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dparente\Documents\SharpDevelop Projects\ZNMI\ZNMI\obj\x86\Debug\ZNMI.exe
+C:\Users\dparente\Documents\SharpDevelop Projects\ZNMI\ZNMI\obj\x86\Debug\ZNMI.pdb
+C:\cygwin-root\home\dparente\subfams\software_release\ZNMI\ZNMI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cygwin-root\home\dparente\subfams\software_release\ZNMI\ZNMI\obj\x86\Debug\ZNMI.exe
+C:\cygwin-root\home\dparente\subfams\software_release\ZNMI\ZNMI\obj\x86\Debug\ZNMI.pdb
+C:\cygwin-root\home\dparente\subfams\software_release\ZNMI\ZNMI\bin\Debug\ZNMI.exe
+C:\cygwin-root\home\dparente\subfams\software_release\ZNMI\ZNMI\bin\Debug\ZNMI.pdb
+C:\cygwin-root\home\dparente\subfams\software_release\ZNMI\ZNMI\bin\Debug\DJPCommonBioinfo.dll
+C:\cygwin-root\home\dparente\subfams\software_release\ZNMI\ZNMI\bin\Debug\DJPCommonBioinfo.pdb

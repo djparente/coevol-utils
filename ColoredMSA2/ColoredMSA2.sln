@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.3
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColoredMSA2", "ColoredMSA2\ColoredMSA2.csproj", "{D20CD4A1-A720-44E5-8A42-2121CD0BE0DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DJPCommonBioinfo", "..\CompareAlignments\DJPCommonBioinfo\DJPCommonBioinfo.csproj", "{A1BC4136-289A-496D-A1F9-C7AE218DE1DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D20CD4A1-A720-44E5-8A42-2121CD0BE0DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D20CD4A1-A720-44E5-8A42-2121CD0BE0DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D20CD4A1-A720-44E5-8A42-2121CD0BE0DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D20CD4A1-A720-44E5-8A42-2121CD0BE0DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1BC4136-289A-496D-A1F9-C7AE218DE1DB}.Debug|Any CPU.Build.0 = Debug|x86
+		{A1BC4136-289A-496D-A1F9-C7AE218DE1DB}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{A1BC4136-289A-496D-A1F9-C7AE218DE1DB}.Release|Any CPU.Build.0 = Release|x86
+		{A1BC4136-289A-496D-A1F9-C7AE218DE1DB}.Release|Any CPU.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal

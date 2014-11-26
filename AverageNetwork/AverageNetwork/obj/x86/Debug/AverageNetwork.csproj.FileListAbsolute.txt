@@ -1,0 +1,5 @@
+C:\Users\dparente\Documents\SharpDevelop Projects\AverageNetwork\AverageNetwork\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dparente\Documents\SharpDevelop Projects\AverageNetwork\AverageNetwork\bin\Debug\AverageNetwork.exe
+C:\Users\dparente\Documents\SharpDevelop Projects\AverageNetwork\AverageNetwork\bin\Debug\AverageNetwork.pdb
+C:\Users\dparente\Documents\SharpDevelop Projects\AverageNetwork\AverageNetwork\obj\x86\Debug\AverageNetwork.exe
+C:\Users\dparente\Documents\SharpDevelop Projects\AverageNetwork\AverageNetwork\obj\x86\Debug\AverageNetwork.pdb

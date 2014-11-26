@@ -1,0 +1,10 @@
+C:\Users\dparente\Documents\SharpDevelop Projects\CompareAlignments\DJPCommonBioinfo\bin\Debug\DJPCommonBioinfo.dll
+C:\Users\dparente\Documents\SharpDevelop Projects\CompareAlignments\DJPCommonBioinfo\bin\Debug\DJPCommonBioinfo.pdb
+C:\Users\dparente\Documents\SharpDevelop Projects\CompareAlignments\DJPCommonBioinfo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dparente\Documents\SharpDevelop Projects\CompareAlignments\DJPCommonBioinfo\obj\x86\Debug\DJPCommonBioinfo.dll
+C:\Users\dparente\Documents\SharpDevelop Projects\CompareAlignments\DJPCommonBioinfo\obj\x86\Debug\DJPCommonBioinfo.pdb
+C:\cygwin-root\home\dparente\subfams\software_release\DJPCommonBioinfo\bin\Debug\DJPCommonBioinfo.dll
+C:\cygwin-root\home\dparente\subfams\software_release\DJPCommonBioinfo\bin\Debug\DJPCommonBioinfo.pdb
+C:\cygwin-root\home\dparente\subfams\software_release\DJPCommonBioinfo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cygwin-root\home\dparente\subfams\software_release\DJPCommonBioinfo\obj\x86\Debug\DJPCommonBioinfo.dll
+C:\cygwin-root\home\dparente\subfams\software_release\DJPCommonBioinfo\obj\x86\Debug\DJPCommonBioinfo.pdb

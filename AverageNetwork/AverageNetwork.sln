@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.0.8783
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageNetwork", "AverageNetwork\AverageNetwork.csproj", "{2C2343AB-B22D-4700-A638-F443B4815321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C2343AB-B22D-4700-A638-F443B4815321}.Debug|x86.Build.0 = Debug|x86
+		{2C2343AB-B22D-4700-A638-F443B4815321}.Debug|x86.ActiveCfg = Debug|x86
+		{2C2343AB-B22D-4700-A638-F443B4815321}.Release|x86.Build.0 = Release|x86
+		{2C2343AB-B22D-4700-A638-F443B4815321}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal

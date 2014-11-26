@@ -1,0 +1,5 @@
+C:\Users\dparente\Documents\SharpDevelop Projects\ApplyRenumbering\ApplyRenumbering\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dparente\Documents\SharpDevelop Projects\ApplyRenumbering\ApplyRenumbering\bin\Debug\ApplyRenumbering.exe
+C:\Users\dparente\Documents\SharpDevelop Projects\ApplyRenumbering\ApplyRenumbering\bin\Debug\ApplyRenumbering.pdb
+C:\Users\dparente\Documents\SharpDevelop Projects\ApplyRenumbering\ApplyRenumbering\obj\x86\Debug\ApplyRenumbering.exe
+C:\Users\dparente\Documents\SharpDevelop Projects\ApplyRenumbering\ApplyRenumbering\obj\x86\Debug\ApplyRenumbering.pdb

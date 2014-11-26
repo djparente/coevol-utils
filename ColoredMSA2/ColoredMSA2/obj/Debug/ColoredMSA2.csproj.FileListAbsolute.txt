@@ -1,0 +1,7 @@
+C:\Users\dparente\Documents\SharpDevelop Projects\ColoredMSA2\ColoredMSA2\bin\Debug\ColoredMSA2.exe
+C:\Users\dparente\Documents\SharpDevelop Projects\ColoredMSA2\ColoredMSA2\bin\Debug\ColoredMSA2.pdb
+C:\Users\dparente\Documents\SharpDevelop Projects\ColoredMSA2\ColoredMSA2\bin\Debug\DJPCommonBioinfo.dll
+C:\Users\dparente\Documents\SharpDevelop Projects\ColoredMSA2\ColoredMSA2\bin\Debug\DJPCommonBioinfo.pdb
+C:\Users\dparente\Documents\SharpDevelop Projects\ColoredMSA2\ColoredMSA2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dparente\Documents\SharpDevelop Projects\ColoredMSA2\ColoredMSA2\obj\Debug\ColoredMSA2.exe
+C:\Users\dparente\Documents\SharpDevelop Projects\ColoredMSA2\ColoredMSA2\obj\Debug\ColoredMSA2.pdb

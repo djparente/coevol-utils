@@ -1,0 +1,5 @@
+C:\Users\dparente\Documents\SharpDevelop Projects\CompileMasterTable\CompileMasterTable\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dparente\Documents\SharpDevelop Projects\CompileMasterTable\CompileMasterTable\bin\Debug\CompileMasterTable.exe
+C:\Users\dparente\Documents\SharpDevelop Projects\CompileMasterTable\CompileMasterTable\bin\Debug\CompileMasterTable.pdb
+C:\Users\dparente\Documents\SharpDevelop Projects\CompileMasterTable\CompileMasterTable\obj\x86\Debug\CompileMasterTable.exe
+C:\Users\dparente\Documents\SharpDevelop Projects\CompileMasterTable\CompileMasterTable\obj\x86\Debug\CompileMasterTable.pdb

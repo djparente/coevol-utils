@@ -1,0 +1,13 @@
+# Comments lines are denoted by the # character
+ReferenceAlignment.fasta							# Reference Alignment
+75													# Cell Width
+100													# Cell Height
+51													# Cells Per Row
+0.19851524334587									# Entropy Cutoff (if <, then conserved)
+BLOSUM62.txt										# Similarity Matrix
+# Subfamily declarations - Must be in the same order as in the Reference
+# Note the fields are seperated by tabs
+FirstSubfamily.fasta	NameOfReferSeqInSubfamilyAlignment	NameOfReferSeqInReferAlign
+SecondSubfamily.fasta	PurR_EColi	PurR
+ThirdSubfamily.fasta	LacI_EColi	LacI
+# More lines, one per line in the reference alignment
