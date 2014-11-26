@@ -11,5 +11,5 @@
 #
 # Input from standard input and output to standard output
 
-sed 's/\([^ ]*\) *\([^ ]*\)/>\1\n\2/g' | fold --width=60 < /dev/stdin
+dos2unix | sed 's/\([^ ]*\) *\([^ ]*\)/>\1\n\2/g' | perl -pe 's/(.{60,60}(?!$))/\1\n/g if not /^>/;' < /dev/stdin
 
