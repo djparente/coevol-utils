@@ -1,0 +1,9 @@
+C:\Users\dparente\Documents\SharpDevelop Projects\ZNDAMI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dparente\Documents\SharpDevelop Projects\ZNDAMI\bin\Debug\ZNDAMI.exe
+C:\Users\dparente\Documents\SharpDevelop Projects\ZNDAMI\bin\Debug\ZNDAMI.pdb
+C:\Users\dparente\Documents\SharpDevelop Projects\ZNDAMI\bin\Debug\DJPCommonBioinfo.dll
+C:\Users\dparente\Documents\SharpDevelop Projects\ZNDAMI\bin\Debug\ZNMI.exe
+C:\Users\dparente\Documents\SharpDevelop Projects\ZNDAMI\bin\Debug\DJPCommonBioinfo.pdb
+C:\Users\dparente\Documents\SharpDevelop Projects\ZNDAMI\bin\Debug\ZNMI.pdb
+C:\Users\dparente\Documents\SharpDevelop Projects\ZNDAMI\obj\x86\Debug\ZNDAMI.exe
+C:\Users\dparente\Documents\SharpDevelop Projects\ZNDAMI\obj\x86\Debug\ZNDAMI.pdb
