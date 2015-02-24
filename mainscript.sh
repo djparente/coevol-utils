@@ -14,6 +14,7 @@
 
 fodorClassPath="../covariance1_1_nofilter"
 ZNMIPath="./bin/ZNMI.exe"
+ZNDAMIPath="./bin/ZNDAMI.exe"
 translationFile="./data_files/col_to_lac_map.tsv"
 AverageNetworkPath="./bin/AverageNetwork.exe"
 ApplyRenumberingPath="./bin/ApplyRenumbering.exe"
@@ -76,4 +77,29 @@ done;
 	
 echo Averaging the network for znmi
 $AverageNetworkPath mapped_result/znmi/*.map > $avgResultPath
+cat $avgResultPath | grep -e "100$" -e "[6789].$" -e "5[123456789]$" | cut -f1-3 > $avgResultWelPath
+
+#Perform coevolution analysis for ZNDAMI
+mkdir raw_result/zndami
+mkdir mapped_result/zndami
+
+avgResultPath=result/zndami.avg.map.tsv
+avgResultWelPath=final_result/zndami.avg.map.wel
+	
+for i in subsets/fasta/*;
+do
+	raw_output=raw_result/zndami/`basename $i`.zndami
+	mapped_output=mapped_result/zndami/`basename $i`.zndami.map
+	
+	echo Performing zndami on $i
+
+	$ZNDAMIPath $i $raw_output.gz
+	gunzip $raw_output.gz
+	
+	echo "   "Applying filtration and renumbering criteria...
+	tail -n +2 $raw_output | dos2unix | $ApplyRenumberingPath $translationFile 1 | dos2unix | $ApplyRenumberingPath $translationFile 2 > $mapped_output
+done;
+	
+echo Averaging the network for zndami
+$AverageNetworkPath mapped_result/zndami/*.map > $avgResultPath
 cat $avgResultPath | grep -e "100$" -e "[6789].$" -e "5[123456789]$" | cut -f1-3 > $avgResultWelPath
