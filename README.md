@@ -1,4 +1,5 @@
-=== Co-evolution Utilities ===
+Co-evolution Utilities
+======================
 The co-evolution utilities software suite is designed to compare the sites of evolutionary constraint in various subfamilies of a larger protein family.  It supports both conservation-based and co-evolutionary sequence analyses.  Conserved positions are individual sites that retain the same choice of amino acid throughout evolution.  Co-evolving positions are pairs of sites that mutate in a coordinated manner throughout evolution.
 
 The software provides support for:
